@@ -1,5 +1,5 @@
 # BalanceBase
-An interactive platform demonstrating balance principles. Using sensors and actuators, it detects ball position and adjusts in real-time. Ideal for exploring control systems and physics. Open-source and customizable.
+BalanceBase is an open-source, interactive platform designed to showcase the principles of balance. By leveraging sensors and actuators, the platform detects the position of a ball and makes real-time adjustments to maintain its balance. It serves as an excellent tool for those keen on delving into control systems and the physics behind balancing mechanisms.
 
 ---
 
